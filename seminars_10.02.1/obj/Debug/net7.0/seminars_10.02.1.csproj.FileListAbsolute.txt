@@ -1,0 +1,15 @@
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.csproj.AssemblyReference.cache
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.AssemblyInfoInputs.cache
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.AssemblyInfo.cs
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.csproj.CoreCompileInputs.cache
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\bin\Debug\net7.0\seminars_10.02.1.exe
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\bin\Debug\net7.0\seminars_10.02.1.deps.json
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\bin\Debug\net7.0\seminars_10.02.1.runtimeconfig.json
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\bin\Debug\net7.0\seminars_10.02.1.dll
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\bin\Debug\net7.0\seminars_10.02.1.pdb
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.dll
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\refint\seminars_10.02.1.dll
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.pdb
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\seminars_10.02.1.genruntimeconfig.cache
+D:\vscodПор\Знакомство с языками программирования (семинары)\seminars_10.02.1\obj\Debug\net7.0\ref\seminars_10.02.1.dll
